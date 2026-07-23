@@ -25,8 +25,7 @@ An AI-powered mock interview platform that evaluates your answers in real time, 
 <!-- Demo GIF - replace with your own screen recording -->
 <div align="center">
   <img src="docs/demo.gif" alt="InterviewAce AI demo" width="800"/>
-  <p><i>⬆️ Replace this with a screen recording of your app (see "Adding the Demo GIF" below)</i></p>
-</div>
+  
 
 ---
 
