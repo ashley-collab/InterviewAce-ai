@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+*.log
+flask.err.log
+flask.out.log
+
+.DS_Store
+Thumbs.db
+
+.ipynb_checkpoints/
