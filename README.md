@@ -182,7 +182,7 @@ http://127.0.0.1:5000/
 
 ## 📄 License
 
-Add your preferred license here (e.g. MIT).
+LOVELY PROFESSIONAL UNIVERSITY.
 
 ---
 
